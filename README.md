@@ -1,4 +1,4 @@
-# BIENVENIDOS A LA TRIVIA UNIVERSAL CODIFICADA POR JUAN CARLOS Y JAFET BRITO. API REST
-Trivia API
+$ Bienvenidos, Gracias por visitar, Trivia universal creada por Juan Carlos y Jafet Brito / API REST
+Gracias...
 
-Muchas gracias por su tiempo.
+// 
